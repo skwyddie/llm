@@ -46,3 +46,4 @@ BMVC 2022 (British Machine Vision Conference) https://bmvc2022.org/
 
 Neurips  https://nips.cc/
 
+FAIRCON 2023 https://www.fairinstitute.org/blog/manage-ai-risk-faircon23
