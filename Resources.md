@@ -13,20 +13,43 @@ https://github.com/amusi/awesome-ai-awesomeness
 https://github.com/owainlewis/awesome-artificial-intelligence
 https://github.com/visenger/awesome-mlops
 
-Prompt Injection Primers
+Demystifying LLMs and Threats My Journey - CSA (Caleb Sima)
+https://www.youtube.com/watch?v=q_gDtOu1_7E
+
+## Prompt Injection Primers
 https://github.com/jthack/PIPE
 https://github.com/Cranot/chatbot-injections-exploits
 https://github.com/TakSec/Prompt-Injection-Everywhere
+
 
 ## Finance:
 https://github.com/georgezouq/awesome-ai-in-finance
 
 # Prompt engineering
 https://github.com/unbiarirang/Fixed-Input-Parameterization
+Https://github.com/dair.ai/Prompt-Engineering-Guide
 
 # Attacks
 Big list of ML attacks @csima
 https://gist.github.com/csima/b5ea16b682f6117c11debee7c40fa8fc
+
+A proof of concept for using ML model file formats to create malware on AI systems:
+https://github.com/Azure/counterfit/wiki/Abusing-ML-model-file-formats-to-create-malware-on-AI-systems:-A-proof-of-concept
+
+A collection of code execution techniques for ML or ML adjacent libraries and a sample attack on a blackbox model using Optuna:
+https://github.com/moohax/Charcuterie
+
+Universal and transferable adversarial attacks on aligned language models:
+https://arxiv.org/pdf/2307.15043.pf
+
+Evasion attacks against machine learning at test time
+https://arxiv.org/pdf/1708.06131.pdf
+
+Extracting training data from LLMs
+https://arxiv.org/pdf/2012.07805.pdf
+
+Prompt injection (general)
+https://github.com/topics/prompt-injection
 
 "tasks where language models get worse as they become better at language modeling (next word prediction)"
 https://github.com/mivanit/inverse-scaling-prompt-injection
@@ -36,6 +59,9 @@ https://github.com/sunghun7511/chatgpt-prompt-injection
 
 Stored injection POC
 https://github.com/JosephTLucas/stored_prompt_injection/blob/main/stored_prompt_injection.ipynb
+
+Inversion attack: privacy recovery
+https://github.com/AI-secure/SecretGen
 
 # Research
 The Carlini Collection
@@ -48,10 +74,21 @@ https://arxiv.org/pdf/2302.05733.pdf
 speech and scams, bypassing in-the-wild defenses
 implemented by LLM API vendors."
 
+## Risk Databases / Incidents
+https://airisk.io
+https://avidml.org
+https://incidentdatabase.ai
 
 #Offensive AI
 Compilation of resources covering Offensive AI
 https://github.com/jiep/offensive-ai-compilation
+
+## CTFs
+https://gpa.43z.one
+https://gandalf.lakera.ai
+https://grt.lakera.ai/mosscap
+https://github.com/alexdevassy/Machine_Learning_CTF_Challenges
+https://doublespeak.chat
 
 # Build
 Building LLM applications for production -  Chip Huyen
@@ -60,8 +97,10 @@ https://huyenchip.com/2023/04/11/llm-engineering.html
 LLMs, Embeddings, Context Injection, and Next Generation OER
 https://opencontent.org/blog/archives/7205
 
-This guy's YouTube has a ton of enbeddings/build/use advice
-https://www.youtube.com/@RabbitHoleSyndrome 
+This guy's YouTube has a ton of embeddings/build/use advice
+https://www.youtube.com/@RabbitHoleSyndrome
+https://www.youtube.com/watch?v=Yhtd7yGGGA 
+https://www.youtube.com/watch?v=QdDoFfkVkcw
 
 # Governance
 NIST crosswalk
@@ -91,7 +130,6 @@ https://github.com/ivylee/model-cards-and-datasheets
 https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html
 https://ai.meta.com/blog/system-cards-a-new-resource-for-understanding-how-ai-systems-work/
 
-
 # Threat Modeling
 Threat Modeling AI Systems
 Gavin Klondike
@@ -112,8 +150,17 @@ https://www.researchgate.net/publication/360318448_Integrating_Machine_Learning_
 # Defense
 https://github.com/Valhall-ai/prompt-injection-mitigations
 
+Blog: a framework to securely use LLMs
+https://boringappsec.substack.com/p/edition-22-a-framework-to-securely/
+
+
 # Tools
+Open source vector similarity search for Postgres
 https://github.com/pgvector/pgvector
+
+Compare two models side by side
+https://sdk.vercel.ai
+
 https://github.com/openai/evals
 https://github.com/openai/chatgpt-retrieval-plugin
 https://github.com/openai/triton
@@ -123,16 +170,31 @@ https://github.com/imartinez/privateGPT
 https://github.com/go-skynet/LocalAI
 https://github.com/utyvert/mailbuddy
 
+Like JSFiddle, but for prompts:
+https://prmpts.ai
 
-Prompt Injection defense:
+## Prompt Injection defense:
 https://github.com/protectai/rebuff
+https://github.com/derwiki/llm-prompt-injection-filtering
+https://github.com/laiyer-ai/llm-guard
+https://www.arthur.ai
 
-Prompt injection target:
+## Prompt injection target:
 https://github.com/svenmorgenrothio/Prompt-Injection-Playground
 
-Prompt injection harness:
+## Prompt injection harness:
 https://github.com/LLMSecurity/HouYi
 https://github.com/utkusen/promptmap
+
+## Assessment
+A generic automation layer for assessing the security of machine learning systems
+https://github.com/Azure/counterfit
+
+"Garak checks if an LLM will fail in any way we don't necessarily want"
+https://github.com/leondz/garak
+
+"ART provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference."
+https://github.com/Trusted-AI/adversarial-robustness-toolbox
 
 # Prompts
 ## Non offense
@@ -145,6 +207,7 @@ https://huggingface.co/datasets/notrichardren/refuse-to-answer-prompts
 
 ## Jailbreak
 https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts
+https://jailbreakchat.com
 
 ## Toxicity
 https://huggingface.co/datasets/allenai/real-toxicity-prompts
@@ -163,6 +226,11 @@ https://huggingface.co/datasets/imoxto/prompt_injection_hackaprompt_gpt35
 https://huggingface.co/datasets/cgoosen/prompt_injection_password_or_secret
 https://huggingface.co/datasets/boardsec/prompt-injection-duplicate-default
 https://huggingface.co/datasets/JasperLS/prompt-injections
+https://huggingface.co/datasets/jerpint-org/HackAPrompt-Playground-Submissions
+https://huggingface.co/datasets/jerpint-org/HackAPrompt-AICrowd-Submissions
+
+Prompt injection with control characters in ChatGPT
+https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm
 
 ## Gandalf and duck
 https://github.com/tpai/gandalf-prompt-injection-writeup
