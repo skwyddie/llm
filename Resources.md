@@ -121,6 +121,9 @@ https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-
 ENISA Multilayer Framework for Good Cybersecurity Practices for AI
 https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai
 
+OWASP LLM Top 10 analysis mapped to other frameworks:
+https://github.com/Bobsimonoff/LLM-4-Applications-Commentary/tree/main/docs/LLM-Top-10-Framework-Mappings
+
 # Model Cards
 https://modelcards.withgoogle.com/about
 https://huggingface.co/blog/model-cards
