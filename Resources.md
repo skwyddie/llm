@@ -5,12 +5,16 @@ Resources from the web
 # General/Multi
 ## Collections of AI resources, including tools, models, implementations 
 https://github.com/awe50me/Awesome-AI
+
 https://github.com/steven2358/awesome-generative-ai
+
 https://github.com/yunwei37/prompt-hacker-collections
 
 ## Learning resources
 https://github.com/amusi/awesome-ai-awesomeness
+
 https://github.com/owainlewis/awesome-artificial-intelligence
+
 https://github.com/visenger/awesome-mlops
 
 Demystifying LLMs and Threats My Journey - CSA (Caleb Sima)
@@ -18,7 +22,9 @@ https://www.youtube.com/watch?v=q_gDtOu1_7E
 
 ## Prompt Injection Primers
 https://github.com/jthack/PIPE
+
 https://github.com/Cranot/chatbot-injections-exploits
+
 https://github.com/TakSec/Prompt-Injection-Everywhere
 
 
@@ -27,7 +33,8 @@ https://github.com/georgezouq/awesome-ai-in-finance
 
 # Prompt engineering
 https://github.com/unbiarirang/Fixed-Input-Parameterization
-Https://github.com/dair.ai/Prompt-Engineering-Guide
+
+https://github.com/dair.ai/Prompt-Engineering-Guide
 
 # Attacks
 Big list of ML attacks @csima
@@ -76,7 +83,9 @@ implemented by LLM API vendors."
 
 ## Risk Databases / Incidents
 https://airisk.io
+
 https://avidml.org
+
 https://incidentdatabase.ai
 
 #Offensive AI
@@ -85,9 +94,13 @@ https://github.com/jiep/offensive-ai-compilation
 
 ## CTFs
 https://gpa.43z.one
+
 https://gandalf.lakera.ai
+
 https://grt.lakera.ai/mosscap
+
 https://github.com/alexdevassy/Machine_Learning_CTF_Challenges
+
 https://doublespeak.chat
 
 # Build
@@ -98,8 +111,11 @@ LLMs, Embeddings, Context Injection, and Next Generation OER
 https://opencontent.org/blog/archives/7205
 
 This guy's YouTube has a ton of embeddings/build/use advice
+
 https://www.youtube.com/@RabbitHoleSyndrome
+
 https://www.youtube.com/watch?v=Yhtd7yGGGA 
+
 https://www.youtube.com/watch?v=QdDoFfkVkcw
 
 # Governance
@@ -126,16 +142,22 @@ https://github.com/Bobsimonoff/LLM-4-Applications-Commentary/tree/main/docs/LLM-
 
 # Model Cards
 https://modelcards.withgoogle.com/about
+
 https://huggingface.co/blog/model-cards
+
 https://arxiv.org/pdf/1810.03993.pdf
+
 https://github.com/fau-masters-collected-works-cgarbin/model-card-template
+
 https://github.com/ivylee/model-cards-and-datasheets
+
 https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html
+
 https://ai.meta.com/blog/system-cards-a-new-resource-for-understanding-how-ai-systems-work/
 
 # Threat Modeling
-Threat Modeling AI Systems
-Gavin Klondike
+Threat Modeling AI Systems: Gavin Klondike
+
 https://aivillage.org/large%20language%20models/threat-modeling-llm/
 
 # M/SDLC
@@ -165,12 +187,19 @@ Compare two models side by side
 https://sdk.vercel.ai
 
 https://github.com/openai/evals
+
 https://github.com/openai/chatgpt-retrieval-plugin
+
 https://github.com/openai/triton
+
 https://github.com/yoheinakajima/babyagi
+
 https://github.com/Significant-Gravitas/AutoGPT
+
 https://github.com/imartinez/privateGPT
+
 https://github.com/go-skynet/LocalAI
+
 https://github.com/utyvert/mailbuddy
 
 Like JSFiddle, but for prompts:
@@ -178,8 +207,11 @@ https://prmpts.ai
 
 ## Prompt Injection defense:
 https://github.com/protectai/rebuff
+
 https://github.com/derwiki/llm-prompt-injection-filtering
+
 https://github.com/laiyer-ai/llm-guard
+
 https://www.arthur.ai
 
 ## Prompt injection target:
@@ -187,6 +219,7 @@ https://github.com/svenmorgenrothio/Prompt-Injection-Playground
 
 ## Prompt injection harness:
 https://github.com/LLMSecurity/HouYi
+
 https://github.com/utkusen/promptmap
 
 ## Assessment
@@ -202,7 +235,9 @@ https://github.com/Trusted-AI/adversarial-robustness-toolbox
 # Prompts
 ## Non offense
 https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
+
 https://huggingface.co/datasets/succinctly/midjourney-prompts
+
 https://huggingface.co/datasets/daspartho/stable-diffusion-prompts
 
 ## Negative test
@@ -210,26 +245,45 @@ https://huggingface.co/datasets/notrichardren/refuse-to-answer-prompts
 
 ## Jailbreak
 https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts
+
 https://jailbreakchat.com
+
+http://www.jamessawyer.co.uk/pub/gpt_jb.html
+
+## Bias / Fairness
+https://huggingface.co/datasets/AlexaAI/bold
+
+https://ai.meta.com/datasets/speech-fairness-dataset/
 
 ## Toxicity
 https://huggingface.co/datasets/allenai/real-toxicity-prompts
+
 https://huggingface.co/datasets/PanoEvJ/real-toxicity-prompts-severe0.7
 
 ## Generate/run code
 https://huggingface.co/datasets/LangChainHub-Prompts/LLM_Bash
+
 https://huggingface.co/datasets/agie-ai/awesome-chatgpt-prompts
+
 https://huggingface.co/datasets/kaxap/llama2-sql-instruct-sys-prompt
 
 ## Prompt injection
 https://huggingface.co/datasets/deepset/prompt-injections
+
 https://huggingface.co/datasets/imoxto/prompt_injection_cleaned_dataset
+
 https://huggingface.co/datasets/imoxto/prompt_injection_cleaned_dataset-v2
+
 https://huggingface.co/datasets/imoxto/prompt_injection_hackaprompt_gpt35
+
 https://huggingface.co/datasets/cgoosen/prompt_injection_password_or_secret
+
 https://huggingface.co/datasets/boardsec/prompt-injection-duplicate-default
+
 https://huggingface.co/datasets/JasperLS/prompt-injections
+
 https://huggingface.co/datasets/jerpint-org/HackAPrompt-Playground-Submissions
+
 https://huggingface.co/datasets/jerpint-org/HackAPrompt-AICrowd-Submissions
 
 Prompt injection with control characters in ChatGPT
@@ -237,6 +291,7 @@ https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-o
 
 ## Gandalf and duck
 https://github.com/tpai/gandalf-prompt-injection-writeup
+
 https://github.com/Prajwalsrinvas/prompt-injection
 
 
