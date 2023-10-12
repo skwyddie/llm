@@ -155,6 +155,8 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html
 
 https://ai.meta.com/blog/system-cards-a-new-resource-for-understanding-how-ai-systems-work/
 
+https://cyclonedx.org/capabilities/mlbom/
+
 # Threat Modeling
 Threat Modeling AI Systems: Gavin Klondike
 
