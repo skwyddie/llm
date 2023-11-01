@@ -20,13 +20,25 @@ https://github.com/visenger/awesome-mlops
 Demystifying LLMs and Threats My Journey - CSA (Caleb Sima)
 https://www.youtube.com/watch?v=q_gDtOu1_7E
 
-## Prompt Injection Primers
+Prompts for educators
+https://github.com/microsoft/prompts-for-edu/tree/main
+
+## Prompt Injection Primers and research
 https://github.com/jthack/PIPE
 
 https://github.com/Cranot/chatbot-injections-exploits
 
 https://github.com/TakSec/Prompt-Injection-Everywhere
 
+https://arxiv.org/abs/2201.11903
+
+Lakera: The ELIF5 Guide to Prompt Injection: Techniques, Prevention, Methods & Tools
+https://www.lakera.ai/blog/guide-to-prompt-injection
+
+Safety and Security Risks
+of Generative Artificial
+Intelligence to 2025 (UK) 
+https://assets.publishing.service.gov.uk/media/653932db80884d0013f71b15/generative-ai-safety-security-risks-2025-annex-b.pdf
 
 ## Finance:
 https://github.com/georgezouq/awesome-ai-in-finance
@@ -69,6 +81,13 @@ https://github.com/JosephTLucas/stored_prompt_injection/blob/main/stored_prompt_
 
 Inversion attack: privacy recovery
 https://github.com/AI-secure/SecretGen
+
+Beyond Memorization: Violating Privacy via inference with large language models
+Robin Staab, Mark Vero, Mislav Balunovic, Martin Vechev
+https://arxiv.org/pdf/2310.07298v1.pdf
+
+the Offensive ML Framework
+https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 
 # Research
 The Carlini Collection
@@ -119,6 +138,9 @@ https://www.youtube.com/watch?v=Yhtd7yGGGA
 https://www.youtube.com/watch?v=QdDoFfkVkcw
 
 # Governance
+AI Standards
+https://aistandardshub.org/ai-standards-search/?_sfm_overall_status=published
+
 NIST crosswalk
 https://airc.nist.gov/AI_RMF_Knowledge_Base/Crosswalks
 
@@ -252,6 +274,11 @@ https://jailbreakchat.com
 
 http://www.jamessawyer.co.uk/pub/gpt_jb.html
 
+Jailbreaking ChatGPT via Prompt Engineering: An
+Empirical Study
+Yi Liu, Gelei Deng, Zhengzi Xu, Yuekang Li, Yaowen Zheng, Ying Zhang, Lida Zhao, Tianwei Zhang, Yang Liu
+https://arxiv.org/pdf/2305.13860.pdf
+
 ## Bias / Fairness
 https://huggingface.co/datasets/AlexaAI/bold
 
@@ -296,7 +323,15 @@ https://github.com/tpai/gandalf-prompt-injection-writeup
 
 https://github.com/Prajwalsrinvas/prompt-injection
 
+# AI-based Attack Tools
 
+## Voice
+Real time voice clone and translate
+https://www.rask.ai
+
+#AI Transparency
+The Foundation Model Transparency Index
+https://crfm.stanford.edu/fmti/
 
 
 
