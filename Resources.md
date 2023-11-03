@@ -52,6 +52,9 @@ https://github.com/dair.ai/Prompt-Engineering-Guide
 Big list of ML attacks @csima
 https://gist.github.com/csima/b5ea16b682f6117c11debee7c40fa8fc
 
+Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets, Tramer, Shokri, San Joaquin, Le, Jagielski, Hong, Carlini
+https://arxiv.org/pdf/2204.00032.pdf
+
 A proof of concept for using ML model file formats to create malware on AI systems:
 https://github.com/Azure/counterfit/wiki/Abusing-ML-model-file-formats-to-create-malware-on-AI-systems:-A-proof-of-concept
 
