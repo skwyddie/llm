@@ -32,6 +32,8 @@ https://github.com/TakSec/Prompt-Injection-Everywhere
 
 https://arxiv.org/abs/2201.11903
 
+https://github.com/FonduAI/awesome-prompt-injection/
+
 Lakera: The ELIF5 Guide to Prompt Injection: Techniques, Prevention, Methods & Tools
 https://www.lakera.ai/blog/guide-to-prompt-injection
 
