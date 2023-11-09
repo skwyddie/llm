@@ -23,6 +23,9 @@ https://www.youtube.com/watch?v=q_gDtOu1_7E
 Prompts for educators
 https://github.com/microsoft/prompts-for-edu/tree/main
 
+Intentionally vulnerable
+https://github.com/mitre-atlas/ml-vulhub
+
 ## Prompt Injection Primers and research
 https://github.com/jthack/PIPE
 
@@ -91,9 +94,6 @@ Beyond Memorization: Violating Privacy via inference with large language models
 Robin Staab, Mark Vero, Mislav Balunovic, Martin Vechev
 https://arxiv.org/pdf/2310.07298v1.pdf
 
-the Offensive ML Framework
-https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
-
 # Research
 The Carlini Collection
 https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
@@ -115,6 +115,9 @@ https://incidentdatabase.ai
 #Offensive AI
 Compilation of resources covering Offensive AI
 https://github.com/jiep/offensive-ai-compilation
+
+the Offensive ML Framework
+https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 
 ## CTFs
 https://gpa.43z.one
@@ -260,6 +263,9 @@ https://github.com/leondz/garak
 
 "ART provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference."
 https://github.com/Trusted-AI/adversarial-robustness-toolbox
+
+Pentest findings for AI/ML
+https://github.com/BishopFox/llm-testing-findings
 
 # Prompts
 ## Non offense
