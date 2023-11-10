@@ -105,6 +105,13 @@ https://arxiv.org/pdf/2302.05733.pdf
 speech and scams, bypassing in-the-wild defenses
 implemented by LLM API vendors."
 
+## Survey papers (Academic)
+* [Taxonomy of Machine Learning Safety: A Survey and Primer](http://export.arxiv.org/pdf/2106.04823) Mohseni et al, March 2022
+* [Security for Machine Learning-based So￿ware Systems: a survey of threats,
+practices and challenge](https://arxiv.org/ftp/arxiv/papers/2201/2201.04736.pdf) Chen, Babar, Jan 2022
+* [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://raw.githubusercontent.com/trailofbits/publications/master/papers/toward_comprehensive_risk_assessments.pdf) Khlaaf, March 2023
+* [Practical Attacks on Machine Learning Systems](https://research.nccgroup.com/2022/07/06/whitepaper-practical-attacks-on-machine-learning-systems/), Chris Anley, July 2022
+
 ## Risk Databases / Incidents
 https://airisk.io
 
