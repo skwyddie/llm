@@ -54,6 +54,9 @@ https://github.com/unbiarirang/Fixed-Input-Parameterization
 https://github.com/dair.ai/Prompt-Engineering-Guide
 
 # Attacks
+11/13/2023 - Attack Scenarios on Code Interpreter
+https://evren.ninja/code-interpreter-security.html
+
 Big list of ML attacks @csima
 https://gist.github.com/csima/b5ea16b682f6117c11debee7c40fa8fc
 
