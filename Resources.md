@@ -180,6 +180,9 @@ https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecu
 OWASP LLM Top 10 analysis mapped to other frameworks:
 https://github.com/Bobsimonoff/LLM-4-Applications-Commentary/tree/main/docs/LLM-Top-10-Framework-Mappings
 
+Anecdote: A comprehensive list of risks, controls and policies to securely integrate Generative AI into your organization.
+https://9105956.fs1.hubspotusercontent-na1.net/hubfs/9105956/The%20anecdotes%20AI%20GRC%20Toolkit.pdf
+
 # Model Cards
 https://modelcards.withgoogle.com/about
 
