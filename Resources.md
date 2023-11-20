@@ -26,6 +26,9 @@ https://github.com/microsoft/prompts-for-edu/tree/main
 Intentionally vulnerable
 https://github.com/mitre-atlas/ml-vulhub
 
+Google: Making Friends with Machine Learning: The Entire Course
+https://www.youtube.com/watch?v=1vkb7BCMQd0&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=2
+
 ## Prompt Injection Primers and research
 https://github.com/jthack/PIPE
 
