@@ -23,6 +23,12 @@ https://www.youtube.com/watch?v=q_gDtOu1_7E
 Prompts for educators
 https://github.com/microsoft/prompts-for-edu/tree/main
 
+Intentionally vulnerable
+https://github.com/mitre-atlas/ml-vulhub
+
+Google: Making Friends with Machine Learning: The Entire Course
+https://www.youtube.com/watch?v=1vkb7BCMQd0&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=2
+
 ## Prompt Injection Primers and research
 https://github.com/jthack/PIPE
 
@@ -31,6 +37,8 @@ https://github.com/Cranot/chatbot-injections-exploits
 https://github.com/TakSec/Prompt-Injection-Everywhere
 
 https://arxiv.org/abs/2201.11903
+
+https://github.com/FonduAI/awesome-prompt-injection/
 
 Lakera: The ELIF5 Guide to Prompt Injection: Techniques, Prevention, Methods & Tools
 https://www.lakera.ai/blog/guide-to-prompt-injection
@@ -49,6 +57,9 @@ https://github.com/unbiarirang/Fixed-Input-Parameterization
 https://github.com/dair.ai/Prompt-Engineering-Guide
 
 # Attacks
+11/13/2023 - Attack Scenarios on Code Interpreter
+https://evren.ninja/code-interpreter-security.html
+
 Big list of ML attacks @csima
 https://gist.github.com/csima/b5ea16b682f6117c11debee7c40fa8fc
 
@@ -95,9 +106,6 @@ Beyond Memorization: Violating Privacy via inference with large language models
 Robin Staab, Mark Vero, Mislav Balunovic, Martin Vechev
 https://arxiv.org/pdf/2310.07298v1.pdf
 
-the Offensive ML Framework
-https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
-
 # Research
 The Carlini Collection
 https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
@@ -109,6 +117,13 @@ https://arxiv.org/pdf/2302.05733.pdf
 speech and scams, bypassing in-the-wild defenses
 implemented by LLM API vendors."
 
+## Survey papers (Academic)
+* [Taxonomy of Machine Learning Safety: A Survey and Primer](http://export.arxiv.org/pdf/2106.04823) Mohseni et al, March 2022
+* [Security for Machine Learning-based So￿ware Systems: a survey of threats,
+practices and challenge](https://arxiv.org/ftp/arxiv/papers/2201/2201.04736.pdf) Chen, Babar, Jan 2022
+* [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://raw.githubusercontent.com/trailofbits/publications/master/papers/toward_comprehensive_risk_assessments.pdf) Khlaaf, March 2023
+* [Practical Attacks on Machine Learning Systems](https://research.nccgroup.com/2022/07/06/whitepaper-practical-attacks-on-machine-learning-systems/), Chris Anley, July 2022
+
 ## Risk Databases / Incidents
 https://airisk.io
 
@@ -119,6 +134,9 @@ https://incidentdatabase.ai
 #Offensive AI
 Compilation of resources covering Offensive AI
 https://github.com/jiep/offensive-ai-compilation
+
+the Offensive ML Framework
+https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 
 ## CTFs
 https://gpa.43z.one
@@ -170,6 +188,9 @@ https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecu
 
 OWASP LLM Top 10 analysis mapped to other frameworks:
 https://github.com/Bobsimonoff/LLM-4-Applications-Commentary/tree/main/docs/LLM-Top-10-Framework-Mappings
+
+Anecdote: A comprehensive list of risks, controls and policies to securely integrate Generative AI into your organization.
+https://9105956.fs1.hubspotusercontent-na1.net/hubfs/9105956/The%20anecdotes%20AI%20GRC%20Toolkit.pdf
 
 # Model Cards
 https://modelcards.withgoogle.com/about
@@ -264,6 +285,9 @@ https://github.com/leondz/garak
 
 "ART provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference."
 https://github.com/Trusted-AI/adversarial-robustness-toolbox
+
+Pentest findings for AI/ML
+https://github.com/BishopFox/llm-testing-findings
 
 # Prompts
 ## Non offense
